@@ -12,6 +12,6 @@ Here the changelog: https://unity3d.com/fr/unity/whats-new/2020.1.0
 
 It may be a regression from this patch https://issuetracker.unity3d.com/issues/android-loading-assets-from-assetbundles-takes-significantly-more-time-when-the-project-is-built-as-an-aab
 
-To reproduce the bug juste start a build.
+To reproduce the bug, start a build.
 
 If the folder sudoku3x2(in streaming assets folder) is removed, the build succeeded
